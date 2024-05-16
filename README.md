@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**amankamboj02000/amankamboj02000** 
-
 👋 Hi, I’m Aman Kumar, Software Engineer(Java Backend Developer), @tcs.
 🌱 Proficient in C++, Java, and Python, with experience in software development.
 👀 I have solved more than 750 leetcode problems.
